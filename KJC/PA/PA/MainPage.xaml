@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PA.MainPage">
+
+    <FlexLayout Direction="Column">
+        <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Azure">
+            <Entry x:Name="TermNameField" Placeholder="Enter Name of New Term"/>
+            <HorizontalStackLayout>
+                <DatePicker x:Name="TermStartPicker" />
+                <Label Text="Term Start Date"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout>
+                <DatePicker x:Name="TermEndPicker"/>
+                <Label Text="Term End Date"/>
+            </HorizontalStackLayout>
+            <Button x:Name="addTermButton" Text="Save" Clicked="addTermButton_Clicked"/>
+        </VerticalStackLayout>
+        <ListView x:Name="termsView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="termsView_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <VerticalStackLayout Padding="5">
+                            <Label Text="{Binding TermName}" FontSize="17" FontAttributes="Bold"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Column="0" Text="{Binding TermStartPicker}" />
+                                <Label Grid.Column="2" Text="{Binding TermEndPicker}" />
+                            </Grid>
+                        </VerticalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </FlexLayout>
+
+</ContentPage>
