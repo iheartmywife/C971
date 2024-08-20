@@ -6,13 +6,11 @@
     <FlexLayout Direction="Column">
         <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Azure">
             <Entry x:Name="TermNameField" Placeholder="Enter Name of New Term"/>
-            <HorizontalStackLayout>
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Spacing="5">
                 <DatePicker x:Name="TermStartPicker" />
-                <Label Text="Term Start Date"/>
-            </HorizontalStackLayout>
-            <HorizontalStackLayout>
+                <Label Text="Start Date" VerticalOptions="Center"/>
                 <DatePicker x:Name="TermEndPicker"/>
-                <Label Text="Term End Date"/>
+                <Label Text="End Date" VerticalOptions="Center"/>
             </HorizontalStackLayout>
             <Button x:Name="addTermButton" Text="Save" Clicked="addTermButton_Clicked"/>
         </VerticalStackLayout>
@@ -21,16 +19,15 @@
                 <DataTemplate>
                     <ViewCell>
                         <VerticalStackLayout Padding="5">
-                            <Label Text="{Binding TermName}" FontSize="17" FontAttributes="Bold"/>
-                            <Grid>
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="Auto"/>
-                                    <ColumnDefinition Width="*"/>
-                                    <ColumnDefinition Width="Auto"/>
-                                </Grid.ColumnDefinitions>
-                                <Label Grid.Column="0" Text="{Binding TermStartPicker}" />
-                                <Label Grid.Column="2" Text="{Binding TermEndPicker}" />
-                            </Grid>
+                            <Label Text="{Binding TermName}" FontSize="20" FontAttributes="Bold"/>
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Term Start -" FontSize="14"/>
+                                <Label Text="{Binding StartDate}" FontSize="12" FontAttributes="Italic"/>
+                            </HorizontalStackLayout>
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Term End -" FontSize="14" Grid.Column="3"/>
+                                <Label Text="{Binding EndDate}" FontSize="12" FontAttributes="Italic"/>
+                            </HorizontalStackLayout>
                         </VerticalStackLayout>
                     </ViewCell>
                 </DataTemplate>

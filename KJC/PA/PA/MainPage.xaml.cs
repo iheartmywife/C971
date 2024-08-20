@@ -69,6 +69,7 @@ namespace PA
 
                     break;
                 case "View Term":
+                    await Navigation.PushModalAsync(new CoursePage(term.ID, _dbService));
                     break;
             }
         }

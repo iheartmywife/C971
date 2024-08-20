@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PA.CoursePage"
+             Title="CoursePage">
+    <VerticalStackLayout>
+        <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked"/>
+        <Label 
+            Text="Currently Viewing: "
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Grid ColumnDefinitions="33.33*, 33.33*, 33.33*"
+              ColumnSpacing="8" 
+              HorizontalOptions="FillAndExpand">
+            <Button x:Name="AddCourseButton" Text="Add a Course" Grid.Column="0" HorizontalOptions="FillAndExpand" Clicked="AddCourseButton_Clicked"/>
+            <Button x:Name="UpdateCourseButton" Text="Update Course" Grid.Column="1" HorizontalOptions="FillAndExpand" Clicked="UpdateCourseButton_Clicked"/>
+            <Button x:Name="DeleteCourseButton" Text="Delete Course" Grid.Column="2" HorizontalOptions="FillAndExpand" Clicked="DeleteCourseButton_Clicked"/>
+        </Grid>
+        <ListView x:Name="courseView" FlexLayout.Grow="1" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <VerticalStackLayout Padding="5">
+                            <Label Text="{Binding CourseName}" FontSize="17" FontAttributes="Bold"/>
+                        </VerticalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>

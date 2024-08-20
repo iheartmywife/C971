@@ -44,5 +44,45 @@ namespace PA
         }
 
         // to do: implement Course Table Operations
+
+        public async Task<List<Course>> GetCourses()
+        {
+            return await _connection.Table<Course>().ToListAsync();
+        }
+
+        public async Task<Course> GetCourseByID(int id)
+        {
+            return await _connection.Table<Course>().Where( x => x.TermID == id).FirstOrDefaultAsync();
+        }
+        public async Task<List<Course>> GetCoursesWithID(int id)
+        {
+            return await _connection.Table<Course>().Where(x => x.ID == id).ToListAsync();
+        }
+        public int GetCourseCountForTerm(int id)
+        {
+            if (_connection.Table<Course> != null || GetCoursesWithID(id).Result.Count > 0)
+            {
+                return GetCoursesWithID(id).Result.Count;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
+        public async Task CreateCourse(Course course)
+        {
+            await _connection.InsertAsync(course);
+        }
+
+        public async Task UpdateCourse(Course course)
+        {
+            await _connection.UpdateAsync(course);
+        }
+
+        public async Task DeleteCourse(Course course) 
+        {
+            await _connection.DeleteAsync(course);
+        }
     }
 }

@@ -17,6 +17,7 @@ namespace PA
 
             builder.Services.AddSingleton<DBService>();
             builder.Services.AddTransient<MainPage>();
+            builder.Services.AddTransient<CoursePage>();
 
 #if DEBUG
     		builder.Logging.AddDebug();
