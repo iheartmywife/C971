@@ -5,23 +5,19 @@
              Title="CoursePage">
     <VerticalStackLayout>
         <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked"/>
-        <Label 
+        <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
+            <Label 
             Text="Currently Viewing: "
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-        <Grid ColumnDefinitions="33.33*, 33.33*, 33.33*"
-              ColumnSpacing="8" 
-              HorizontalOptions="FillAndExpand">
-            <Button x:Name="AddCourseButton" Text="Add a Course" Grid.Column="0" HorizontalOptions="FillAndExpand" Clicked="AddCourseButton_Clicked"/>
-            <Button x:Name="UpdateCourseButton" Text="Update Course" Grid.Column="1" HorizontalOptions="FillAndExpand" Clicked="UpdateCourseButton_Clicked"/>
-            <Button x:Name="DeleteCourseButton" Text="Delete Course" Grid.Column="2" HorizontalOptions="FillAndExpand" Clicked="DeleteCourseButton_Clicked"/>
-        </Grid>
-        <ListView x:Name="courseView" FlexLayout.Grow="1" HasUnevenRows="True">
+            VerticalOptions="Center" />
+            <Label Text="{Binding termName}" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+        <Button x:Name="AddCourseButton" Text="Add a Course" HorizontalOptions="FillAndExpand" Clicked="AddCourseButton_Clicked"/>
+        <ListView x:Name="courseView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="courseView_ItemTapped">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <VerticalStackLayout Padding="5">
-                            <Label Text="{Binding CourseName}" FontSize="17" FontAttributes="Bold"/>
+                            <Label Text="{Binding CourseName}"  FontSize="17" FontAttributes="Bold"/>
                         </VerticalStackLayout>
                     </ViewCell>
                 </DataTemplate>

@@ -18,6 +18,8 @@ namespace PA
             builder.Services.AddSingleton<DBService>();
             builder.Services.AddTransient<MainPage>();
             builder.Services.AddTransient<CoursePage>();
+            builder.Services.AddTransient<AddCourse>();
+            builder.Services.AddTransient<UpdateCourse>();
 
 #if DEBUG
     		builder.Logging.AddDebug();

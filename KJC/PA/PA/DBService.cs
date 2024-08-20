@@ -23,7 +23,7 @@ namespace PA
             return await _connection.Table<Term>().ToListAsync();
         }
 
-        public async Task<Term> GetByID(int id)
+        public async Task<Term> GetTermByID(int id)
         {
             return await _connection.Table<Term>().Where( x => x.ID == id).FirstOrDefaultAsync();
         }
@@ -45,10 +45,10 @@ namespace PA
 
         // to do: implement Course Table Operations
 
-        public async Task<List<Course>> GetCourses()
-        {
-            return await _connection.Table<Course>().ToListAsync();
-        }
+        //public async Task<List<Course>> GetCourses()
+        //{
+        //    return await _connection.Table<Course>().ToListAsync();
+        //}
 
         public async Task<Course> GetCourseByID(int id)
         {
@@ -56,7 +56,7 @@ namespace PA
         }
         public async Task<List<Course>> GetCoursesWithID(int id)
         {
-            return await _connection.Table<Course>().Where(x => x.ID == id).ToListAsync();
+            return await _connection.Table<Course>().Where(x => x.TermID == id).ToListAsync();
         }
         public int GetCourseCountForTerm(int id)
         {

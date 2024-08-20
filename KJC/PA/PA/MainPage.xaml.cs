@@ -62,14 +62,12 @@ namespace PA
 
                     break;
                 case "Delete Term":
-
                     await _dbService.Delete(term);
                     termsView.ItemsSource = await _dbService.GetTerms();
-                    //TODO: This must also cascade to any courses within the term
 
                     break;
                 case "View Term":
-                    await Navigation.PushModalAsync(new CoursePage(term.ID, _dbService));
+                    await Navigation.PushModalAsync(new CoursePage(term.ID, _dbService, term.TermName));
                     break;
             }
         }

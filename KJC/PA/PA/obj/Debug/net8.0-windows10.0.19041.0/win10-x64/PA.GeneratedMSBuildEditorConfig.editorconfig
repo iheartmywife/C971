@@ -12,6 +12,12 @@ build_property.ProjectDir = C:\C971\KJC\PA\PA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[C:/C971/KJC/PA/PA/AddCourse.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PA.AddCourse.xaml
+build_metadata.AdditionalFiles.TargetPath = AddCourse.xaml
+build_metadata.AdditionalFiles.RelativePath = AddCourse.xaml
+
 [C:/C971/KJC/PA/PA/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.App.xaml
@@ -47,3 +53,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/C971/KJC/PA/PA/UpdateCourse.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PA.UpdateCourse.xaml
+build_metadata.AdditionalFiles.TargetPath = UpdateCourse.xaml
+build_metadata.AdditionalFiles.RelativePath = UpdateCourse.xaml
