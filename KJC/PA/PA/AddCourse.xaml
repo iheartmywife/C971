@@ -32,13 +32,13 @@
 
             <HorizontalStackLayout HorizontalOptions="FillAndExpand">
                 <Entry x:Name="OA" Placeholder="Enter OA Name"/>
-                <DatePicker x:Name="OADueDatePicker"/>
                 <Label Text="Due Date" VerticalOptions="Center"/>
+                <DatePicker x:Name="OADueDatePicker"/>
             </HorizontalStackLayout>
             <HorizontalStackLayout HorizontalOptions="FillAndExpand">
                 <Entry x:Name="PA" Placeholder="Enter PA Name"/>
-                <DatePicker x:Name="PADueDatePicker" />
                 <Label Text="Due Date" VerticalOptions="Center"/>
+                <DatePicker x:Name="PADueDatePicker" />
             </HorizontalStackLayout>
             <Entry x:Name="courseNotes" Placeholder="Enter Additional Notes Here"/>
         </VerticalStackLayout>

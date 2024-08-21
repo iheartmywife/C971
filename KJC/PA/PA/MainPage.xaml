@@ -13,6 +13,8 @@
                 <Label Text="End Date" VerticalOptions="Center"/>
             </HorizontalStackLayout>
             <Button x:Name="addTermButton" Text="Save" Clicked="addTermButton_Clicked"/>
+            <Label Text="To change term info, tap the term, select 'Change Term Info', then edit data fields above the save button" FontAttributes="Italic"/>
+            <Label Text="To view the courses within a term, select 'View Term'" FontAttributes="Italic"/>
         </VerticalStackLayout>
         <ListView x:Name="termsView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="termsView_ItemTapped">
             <ListView.ItemTemplate>

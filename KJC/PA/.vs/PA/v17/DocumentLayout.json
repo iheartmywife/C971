@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\C971\\KJC\\PA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\updatecourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\notificationhandler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\updatecourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "NotificationHandler.xaml.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml.cs",
               "RelativeDocumentMoniker": "PA\\NotificationHandler.xaml.cs",
@@ -90,12 +90,11 @@
               "RelativeToolTip": "PA\\NotificationHandler.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:45:33.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T01:45:33.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "NotificationHandler.xaml",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml",
               "RelativeDocumentMoniker": "PA\\NotificationHandler.xaml",
@@ -103,12 +102,11 @@
               "RelativeToolTip": "PA\\NotificationHandler.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-21T01:45:30.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T01:45:30.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UpdateCourse.xaml.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml.cs",
               "RelativeDocumentMoniker": "PA\\UpdateCourse.xaml.cs",
@@ -116,12 +114,11 @@
               "RelativeToolTip": "PA\\UpdateCourse.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T21:01:46.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T21:01:46.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddCourse.xaml.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml.cs",
               "RelativeDocumentMoniker": "PA\\AddCourse.xaml.cs",
@@ -134,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "AddCourse.xaml",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
               "RelativeDocumentMoniker": "PA\\AddCourse.xaml",
               "ToolTip": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
               "RelativeToolTip": "PA\\AddCourse.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-20T18:27:37.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CoursePage.xaml.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml.cs",
               "RelativeDocumentMoniker": "PA\\CoursePage.xaml.cs",
@@ -155,12 +152,11 @@
               "RelativeToolTip": "PA\\CoursePage.xaml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:25:14.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:25:14.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PA\\MainPage.xaml.cs",
@@ -173,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CoursePage.xaml",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
               "RelativeDocumentMoniker": "PA\\CoursePage.xaml",
               "ToolTip": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
               "RelativeToolTip": "PA\\CoursePage.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-19T21:22:53.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\Course.cs",
               "RelativeDocumentMoniker": "PA\\Course.cs",
@@ -194,12 +190,11 @@
               "RelativeToolTip": "PA\\Course.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:25:11.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:25:11.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PA\\MauiProgram.cs",
@@ -207,25 +202,24 @@
               "RelativeToolTip": "PA\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:56:50.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:56:50.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml",
               "RelativeDocumentMoniker": "PA\\MainPage.xaml",
               "ToolTip": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml",
               "RelativeToolTip": "PA\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-19T18:15:40.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UpdateCourse.xaml",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml",
               "RelativeDocumentMoniker": "PA\\UpdateCourse.xaml",
@@ -233,20 +227,18 @@
               "RelativeToolTip": "PA\\UpdateCourse.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-20T20:56:03.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T20:56:03.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PA",
               "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\PA.csproj",
               "RelativeDocumentMoniker": "PA\\PA.csproj",
               "ToolTip": "C:\\C971\\KJC\\PA\\PA\\PA.csproj",
               "RelativeToolTip": "PA\\PA.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-21T01:23:44.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T01:23:44.641Z"
             },
             {
               "$type": "Document",
@@ -258,8 +250,7 @@
               "RelativeToolTip": "PA\\DBService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:02:33.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:02:33.065Z"
             },
             {
               "$type": "Document",
@@ -271,8 +262,7 @@
               "RelativeToolTip": "PA\\Term.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:02:16.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:02:16.62Z"
             },
             {
               "$type": "Document",
@@ -284,8 +274,7 @@
               "RelativeToolTip": "PA\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:01:04.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:01:04.726Z"
             }
           ]
         }
