@@ -4,20 +4,50 @@
              x:Class="PA.CoursePage"
              Title="CoursePage">
     <VerticalStackLayout>
-        <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked"/>
-        <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
-            <Label 
-            Text="Currently Viewing: "
-            VerticalOptions="Center" />
-            <Label Text="{Binding termName}" VerticalOptions="Center"/>
-        </HorizontalStackLayout>
-        <Button x:Name="AddCourseButton" Text="Add a Course" HorizontalOptions="FillAndExpand" Clicked="AddCourseButton_Clicked"/>
+        <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked" Padding="5"/>
+        <Label Text=""/>
+        <Button x:Name="AddCourseButton" Text="Add a Course" HorizontalOptions="FillAndExpand" Clicked="AddCourseButton_Clicked" Padding="5"/>
+
+        <Label Text="to change course details, tap the course" HorizontalOptions="Center" FontSize="12" FontAttributes="Italic"/>
         <ListView x:Name="courseView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="courseView_ItemTapped">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <VerticalStackLayout Padding="5">
-                            <Label Text="{Binding CourseName}"  FontSize="17" FontAttributes="Bold"/>
+                            <HorizontalStackLayout>
+                                <Label Text="{Binding CourseName}"  FontSize="17" FontAttributes="Bold"/>
+                                <Label Text=" | "/>
+                                <Label Text="{Binding Status}" FontSize="14" FontAttributes="Bold"/>
+                            </HorizontalStackLayout>
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Start:"/>
+                                <Label Text="{Binding CourseStartDate}" FontSize="12" FontAttributes="Italic"/>
+                                <Label Text=" | End:"/>
+                                <Label Text="{Binding CourseEndDate}" FontSize="12" FontAttributes="Italic"/>
+                            </HorizontalStackLayout>
+                            <Label Text="Course Instructor:" FontSize="15" FontAttributes="Bold"/>
+                            <HorizontalStackLayout Spacing="10">
+                                <Label Text="{Binding CIName}"/>
+                                <Label Text=" | "/>
+                                <Label Text="{Binding CIPhone}"/>
+                                <Label Text=" | "/>
+                                <Label Text="{Binding CIEmail}"/>
+                            </HorizontalStackLayout>
+                            <Label Text="Assessments:" FontSize="15" FontAttributes="Bold"/>
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="PA:"/>
+                                <Label Text="{Binding PA}"/>
+                                <Label Text=" | Due: "/>
+                                <Label Text="{Binding PADue}"/>
+                            </HorizontalStackLayout>
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="OA:"/>
+                                <Label Text="{Binding OA}"/>
+                                <Label Text=" | Due: "/>
+                                <Label Text="{Binding OADue}"/>
+                            </HorizontalStackLayout>
+                            <Label Text="Notes:" FontSize="15" FontAttributes="Bold"/>
+                            <Label Text="{Binding notes}"/>
                         </VerticalStackLayout>
                     </ViewCell>
                 </DataTemplate>

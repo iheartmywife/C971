@@ -5,8 +5,11 @@
              Title="UpdateCourse">
     <FlexLayout Direction="Column">
         <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Azure">
-            <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked"/>
-            <Entry x:Name="CourseNameField" Placeholder="Enter Name of New Course"/>
+            <HorizontalStackLayout>
+                <Button x:Name="BackButton" Text="Back" Clicked="BackButton_Clicked" HorizontalOptions="Start"/>
+                <Entry x:Name="CourseNameField" Placeholder="Enter Name of New Course"/>
+                <Button x:Name="UpdateCourseButton" Text="Save" Clicked="UpdateCourseButton_Clicked"/>
+            </HorizontalStackLayout>
             <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Spacing="5">
                 <DatePicker x:Name="CourseStartPicker" />
                 <Label Text="Start Date" VerticalOptions="Center"/>
@@ -26,7 +29,17 @@
             <Entry x:Name="CINameField" Placeholder="Enter Name of Course Instructor"/>
             <Entry x:Name="CIPhoneField" Placeholder="Enter Phone Number of Course Instructor"/>
             <Entry x:Name="CIEmailField" Placeholder="Enter Email of Course Instructor"/>
-            <Button x:Name="UpdateCourseButton" Text="Save" Clicked="UpdateCourseButton_Clicked"/>
+            <Entry x:Name="OA" Placeholder="Enter OA Name"/>
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Spacing="10">
+                <DatePicker x:Name="OADueDatePicker"/>
+                <Label Text="Due Date" VerticalOptions="Center"/>
+            </HorizontalStackLayout>
+            <Entry x:Name="PA" Placeholder="Enter PA Name"/>
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Spacing="10">
+                <DatePicker x:Name="PADueDatePicker" />
+                <Label Text="Due Date" VerticalOptions="Center"/>
+            </HorizontalStackLayout>
+            <Entry x:Name="courseNotes" Placeholder="Enter Additional Notes Here"/>
         </VerticalStackLayout>
     </FlexLayout>
 </ContentPage>

@@ -55,7 +55,7 @@ public partial class CoursePage : ContentPage
     private async void courseView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
         var course = (Course)e.Item;
-        var doSomething = await DisplayActionSheet("What Would You Like To Do?", "Cancel", null, "Change/Update Course Info", "Delete Course", "Add Assessment Info");
+        var doSomething = await DisplayActionSheet("What Would You Like To Do?", "Cancel", null, "Change/Update Course Info", "Delete Course", "Share Notes", "Add Start/End Notifications for Course or Assessments");
 
         switch (doSomething)
         {
@@ -67,7 +67,16 @@ public partial class CoursePage : ContentPage
                 await _dbService.DeleteCourse(course);
                 ReloadPage();
                 break;
-            case "Add Assessment Info":
+            case "Share Notes":
+                await Share.Default.RequestAsync(new ShareTextRequest
+                {
+                    Text = course.notes,
+                    Title = $"Share {course.CourseName} Notes"
+                });
+
+                break;
+            case "Add Start/End Notifications for Course or Assessments":
+                await Navigation.PushModalAsync(new NotificationHandler(course));
                 break;
         }
     }

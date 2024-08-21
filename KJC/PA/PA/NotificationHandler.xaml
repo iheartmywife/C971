@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PA.NotificationHandler"
+             Title="NotificationHandler">
+    <VerticalStackLayout Padding="10" Spacing="10">
+        <HorizontalStackLayout Padding="5" Spacing="10">
+            <VerticalStackLayout>
+                <Label Text="Schedule Notification for"/>
+                <Label Text="Current Course Start Date"/>
+            </VerticalStackLayout>
+            <Button x:Name="CourseStartButton" Text="Schedule Notification" Clicked="CourseStartButton_Clicked"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout Padding="5" Spacing="10">
+            <VerticalStackLayout>
+                <Label Text="Schedule Notification for"/>
+                <Label Text="Current Course Start Date"/>
+            </VerticalStackLayout>
+            <Button x:Name="CourseEndButton" Text="Schedule Notification" Clicked="CourseEndButton_Clicked"/>
+        </HorizontalStackLayout>
+        <Label Text="Schedule Notification for Anticipated PA Start Date"/>
+        <HorizontalStackLayout Padding="10" Spacing="5">
+            <DatePicker x:Name="PAStartPicker" />
+            <Button x:Name="PAStartButton" Text="Schedule Notification" Clicked="PAStartButton_Clicked"/>
+        </HorizontalStackLayout>
+        <Label Text="Schedule Notification for Anticipated PA End Date"/>
+        <HorizontalStackLayout Padding="10" Spacing="5">
+            <DatePicker x:Name="PAEndPicker"/>
+            <Button x:Name="PAEndButton" Text="Schedule Notification" Clicked="PAEndButton_Clicked"/>
+        </HorizontalStackLayout>
+        <Label Text="Schedule Notification for Anticipated OA Start Date"/>
+        <HorizontalStackLayout Padding="10" Spacing="5">
+            <DatePicker x:Name="OAStartPicker" />
+            <Button x:Name="OAStartButton" Text="Schedule Notification" Clicked="OAStartButton_Clicked"/>
+        </HorizontalStackLayout>
+        <Label Text="Schedule Notification for Anticipated OA End Date"/>
+        <HorizontalStackLayout Padding="10" Spacing="5">
+            <DatePicker x:Name="OAEndPicker"/>
+            <Button x:Name="OAEndButton" Text="Schedule Notification" Clicked="OAEndButton_Clicked"/>
+        </HorizontalStackLayout>
+        <Grid>
+            <Button x:Name="DoneButton" Text="Done" Clicked="DoneButton_Clicked"/>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

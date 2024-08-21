@@ -46,20 +46,14 @@ namespace PA
         [Column("OA")]
         public string OA { get; set; }
 
-        [Column("OA_Start")]
-        public DateTime OAStart {  get; set; }
-
-        [Column("OA_End")]
-        public DateTime OAEnd { get; set; }
+        [Column("OA_Due")]
+        public DateTime OADue {  get; set; }
 
         [Column("PA")]
         public string PA { get; set; }
 
-        [Column("PA_Start")]
-        public DateTime PAStart { get; set; }
-
-        [Column("PA_End")]
-        public DateTime PAEnd { get; set; }
+        [Column("PA_Due")]
+        public DateTime PADue { get; set; }
 
         [Column("Course_Notes")]
         public string notes { get; set; }

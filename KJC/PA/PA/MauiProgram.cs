@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using Plugin.LocalNotification;
 
 namespace PA
 {
@@ -9,6 +10,7 @@ namespace PA
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseLocalNotification()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -20,6 +22,7 @@ namespace PA
             builder.Services.AddTransient<CoursePage>();
             builder.Services.AddTransient<AddCourse>();
             builder.Services.AddTransient<UpdateCourse>();
+            builder.Services.AddTransient<NotificationHandler>();
 
 #if DEBUG
     		builder.Logging.AddDebug();

@@ -5,6 +5,7 @@ namespace PA;
 
 public partial class UpdateCourse : ContentPage
 {
+	private bool courseAdded;
 	private readonly DBService _dbService;
 	private readonly Course currentCourse;
 	public UpdateCourse(Course course, DBService dbService)
@@ -24,12 +25,18 @@ public partial class UpdateCourse : ContentPage
 		CINameField.Text = course.CIName;
 		CIPhoneField.Text = course.CIPhone;
 		CIEmailField.Text = course.CIEmail;
+		OA.Text = course.OA;
+		OADueDatePicker.Date = course.OADue;
+		PA.Text = course.PA;
+		PADueDatePicker.Date = course.PADue;
+		courseNotes.Text = course.notes;
 
 		
 	}
 
 	private async void UpdateCourseButton_Clicked(object sender, EventArgs e)
 	{
+		courseAdded = false;
 		try
 		{
 			await _dbService.UpdateCourse(new Course
@@ -43,7 +50,13 @@ public partial class UpdateCourse : ContentPage
 				CIName = CINameField.Text,
 				CIPhone = CIPhoneField.Text,
 				CIEmail = CIEmailField.Text,
-			});
+                OA = OA.Text,
+                OADue = OADueDatePicker.Date,
+                PA = PA.Text,
+                PADue = PADueDatePicker.Date,
+                notes = courseNotes.Text,
+            });
+			courseAdded = true;
 		}
 		catch (Exception ex)
 		{
@@ -51,7 +64,10 @@ public partial class UpdateCourse : ContentPage
 		}
 		finally
 		{
-			await Navigation.PopModalAsync();
+			if (courseAdded)
+			{
+                await Navigation.PopModalAsync();
+            }
 		}
 		
 	}
