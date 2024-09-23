@@ -12,59 +12,59 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PA
-build_property.ProjectDir = C:\C971\KJC\PA\PA\
+build_property.ProjectDir = C:\WGU\C971\KJC\PA\PA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/C971/KJC/PA/PA/AddCourse.xaml]
+[C:/WGU/C971/KJC/PA/PA/AddCourse.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.AddCourse.xaml
 build_metadata.AdditionalFiles.TargetPath = AddCourse.xaml
 build_metadata.AdditionalFiles.RelativePath = AddCourse.xaml
 
-[C:/C971/KJC/PA/PA/App.xaml]
+[C:/WGU/C971/KJC/PA/PA/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/C971/KJC/PA/PA/AppShell.xaml]
+[C:/WGU/C971/KJC/PA/PA/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/C971/KJC/PA/PA/CoursePage.xaml]
+[C:/WGU/C971/KJC/PA/PA/CoursePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.CoursePage.xaml
 build_metadata.AdditionalFiles.TargetPath = CoursePage.xaml
 build_metadata.AdditionalFiles.RelativePath = CoursePage.xaml
 
-[C:/C971/KJC/PA/PA/MainPage.xaml]
+[C:/WGU/C971/KJC/PA/PA/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/C971/KJC/PA/PA/NotificationHandler.xaml]
+[C:/WGU/C971/KJC/PA/PA/NotificationHandler.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.NotificationHandler.xaml
 build_metadata.AdditionalFiles.TargetPath = NotificationHandler.xaml
 build_metadata.AdditionalFiles.RelativePath = NotificationHandler.xaml
 
-[C:/C971/KJC/PA/PA/Resources/Styles/Colors.xaml]
+[C:/WGU/C971/KJC/PA/PA/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/C971/KJC/PA/PA/Resources/Styles/Styles.xaml]
+[C:/WGU/C971/KJC/PA/PA/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/C971/KJC/PA/PA/UpdateCourse.xaml]
+[C:/WGU/C971/KJC/PA/PA/UpdateCourse.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PA.UpdateCourse.xaml
 build_metadata.AdditionalFiles.TargetPath = UpdateCourse.xaml

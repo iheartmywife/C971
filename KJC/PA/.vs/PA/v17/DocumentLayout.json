@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C971\\KJC\\PA\\",
+  "WorkspaceRootPath": "C:\\WGU\\C971\\KJC\\PA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\updatecourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\updatecourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\notificationhandler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\notificationhandler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\notificationhandler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\notificationhandler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\pa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\pa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\updatecourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\updatecourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\updatecourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\updatecourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\notificationhandler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\notificationhandler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\notificationhandler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\notificationhandler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\pa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\pa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\updatecourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\updatecourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\c971\\kjc\\pa\\pa\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|c:\\wgu\\c971\\kjc\\pa\\pa\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E3646E-5DF1-4590-81D1-FBF3CE31FBC5}|PA\\PA.csproj|solutionrelative:pa\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,19 +74,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NotificationHandler.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml.cs",
               "RelativeDocumentMoniker": "PA\\NotificationHandler.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml.cs",
               "RelativeToolTip": "PA\\NotificationHandler.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NotificationHandler.xaml",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml",
               "RelativeDocumentMoniker": "PA\\NotificationHandler.xaml",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\NotificationHandler.xaml",
               "RelativeToolTip": "PA\\NotificationHandler.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -106,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UpdateCourse.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml.cs",
               "RelativeDocumentMoniker": "PA\\UpdateCourse.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml.cs",
               "RelativeToolTip": "PA\\UpdateCourse.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AddCourse.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\AddCourse.xaml.cs",
               "RelativeDocumentMoniker": "PA\\AddCourse.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\AddCourse.xaml.cs",
               "RelativeToolTip": "PA\\AddCourse.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AddCourse.xaml",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
               "RelativeDocumentMoniker": "PA\\AddCourse.xaml",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\AddCourse.xaml",
               "RelativeToolTip": "PA\\AddCourse.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -142,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CoursePage.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\CoursePage.xaml.cs",
               "RelativeDocumentMoniker": "PA\\CoursePage.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\CoursePage.xaml.cs",
               "RelativeToolTip": "PA\\CoursePage.xaml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PA\\MainPage.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\MainPage.xaml.cs",
               "RelativeToolTip": "PA\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,35 +174,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CoursePage.xaml",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
               "RelativeDocumentMoniker": "PA\\CoursePage.xaml",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\CoursePage.xaml",
               "RelativeToolTip": "PA\\CoursePage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-19T21:22:53.143Z"
+              "WhenOpened": "2024-08-19T21:22:53.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\Course.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\Course.cs",
               "RelativeDocumentMoniker": "PA\\Course.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\Course.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\Course.cs",
               "RelativeToolTip": "PA\\Course.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:25:11.573Z"
+              "WhenOpened": "2024-08-19T18:25:11.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PA\\MauiProgram.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\MauiProgram.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\MauiProgram.cs",
               "RelativeToolTip": "PA\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,24 +212,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\MainPage.xaml",
               "RelativeDocumentMoniker": "PA\\MainPage.xaml",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\MainPage.xaml",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\MainPage.xaml",
               "RelativeToolTip": "PA\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-19T18:15:40.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UpdateCourse.xaml",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml",
               "RelativeDocumentMoniker": "PA\\UpdateCourse.xaml",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\UpdateCourse.xaml",
               "RelativeToolTip": "PA\\UpdateCourse.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -227,11 +237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PA",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\PA.csproj",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\PA.csproj",
               "RelativeDocumentMoniker": "PA\\PA.csproj",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\PA.csproj",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\PA.csproj",
               "RelativeToolTip": "PA\\PA.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-21T01:23:44.641Z"
@@ -240,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DBService.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\DBService.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\DBService.cs",
               "RelativeDocumentMoniker": "PA\\DBService.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\DBService.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\DBService.cs",
               "RelativeToolTip": "PA\\DBService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Term.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\Term.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\Term.cs",
               "RelativeDocumentMoniker": "PA\\Term.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\Term.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\Term.cs",
               "RelativeToolTip": "PA\\Term.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\C971\\KJC\\PA\\PA\\App.xaml.cs",
+              "DocumentMoniker": "C:\\WGU\\C971\\KJC\\PA\\PA\\App.xaml.cs",
               "RelativeDocumentMoniker": "PA\\App.xaml.cs",
-              "ToolTip": "C:\\C971\\KJC\\PA\\PA\\App.xaml.cs",
+              "ToolTip": "C:\\WGU\\C971\\KJC\\PA\\PA\\App.xaml.cs",
               "RelativeToolTip": "PA\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
